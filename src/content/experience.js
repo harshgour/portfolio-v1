@@ -1,0 +1,95 @@
+export const getExperiences = () => [
+	{
+		name: "Fullstack developer at Richpanel",
+		type: "Full-time",
+		image: "richpanel.svg",
+		duration: "Aug 2021 - Jul 2022",
+		link: "https://richpanel.com/",
+		description: [
+			"Worked on Richpanel - CRM for e-commerce merchants, developed in VueJS for front-end and Node for backend. At Richpanel, I’ve on both the platforms: ",
+			"Agent helpdesk - Platform used by Customer service agents for communication and resolving tickets raised by a customer developed in VueJS and Node",
+			"Livechat messenger - Livechat widget on e-commerce websites used by end-customer to communicate to customer service developed in VueJS",
+			,
+			"Worked with Shopify CLI for integration with Richpanel and also worked on different databases such as DynamoDB, PostgreSQL, Neo4J",
+		],
+	},
+	{
+		name: "Frontend Developer (Intern), FibonaLabs",
+		type: "Internship",
+		image: "fibonalabs.jpeg",
+		duration: "Jan 2021 - April 2021",
+		link: "https://www.fibonalabs.com/",
+		description: [
+			"Worked on UI for a Wealth Management Application using ReactJS.",
+			"Successfully developed the pixel-perfect UI using ReactJS and also used Ant Design as UI library",
+		],
+	},
+	{
+		name: "Web developer (Intern), Vaultboard Consulting",
+		type: "Internship",
+		image: "vaultboard.jpeg",
+		duration: "Jun 2020 - August 2021",
+		link: "http://www.vaultboard.com/",
+		description: [
+			"Worked on an EduTech platform. Technologies/Languages used were - HTML/CSS, PHP, JS, MySQL.",
+			"My responsibilities included debugging existing functionalities, enhancing them to develop related features of the platform for avoiding tech debts.",
+		],
+	},
+	{
+		name: "Web developer (Intern), Dockero Technologies",
+		type: "Internship",
+		image: "dockero.jpeg",
+		duration: "Jan 2021 - April 2021",
+		link: "https://dockerotechnologies.com/",
+		description: [
+			"Worked on an Educational platform similar to Udemy using ReactJS.",
+			"My Responsibilities included converting the platform from pure HTML, CSS and JS to React SPA.",
+		],
+	},
+	{
+		name: "Web developer (Intern), DYGN Media",
+		type: "Internship",
+		image: "dygn.jpeg",
+		duration: "Dec 2019",
+		link: "https://dygnmedia.com/",
+		description: [
+			"My responsibilities consisted of creating UI wire layout in PHP, making sure that site is responsive on all forms of devices including desktop, mobile and tab interfaces.",
+			"Extensively used HTML, CSS, Bootstrap, PHP for developing responsive UIs during my tenure at DYGN",
+		],
+	},
+	{
+		name: "IEEE SRMIST",
+		type: "Student chapter",
+		image: "ieee.jpeg",
+		duration: "Sep 2020 - Apr 2022",
+		link: "https://www.ieeesrmist.in/",
+		description: [
+			"Led a team for web development in IEEE SRMIST. I directly contributed to IEEE and its events as a front-end developer on different projects. Worked on several websites such as Hacktrix, concepto etc.",
+			"I collaborate closely with other members and leads to create material webpages using react for many different purposes.",
+			"Worked on improving the UI and fixing bugs on the official website.",
+		],
+	},
+	{
+		name: "Tech Lead @ Alexa Developers SRM",
+		type: "Organisation / Club",
+		image: "alexa.jpeg",
+		duration: "Mar 2020 - Mar 2022",
+		link: "https://alexadevsrm.com/",
+		description: [
+			"Led a team for web development in Alexa Dev SRM. I directly contributed to Alexa and its events as a front-end developer on different projects.",
+			"Worked on improving the UI and fixing bugs on the official website.",
+		],
+	},
+	{
+		name: "Associate Tech Lead @ Biocom SRM",
+		type: "Student chapter",
+		image: "biocom.jpeg",
+		duration: "Mar 2020 - Jul 2020",
+		link: "https://biocomsrm.org/",
+		description: [
+			"Led a team for web development at Biocom. I directly contributed to Biocom as a lead front-end developer on different projects.",
+			"Also, participated in hackathons during my course here at Biocom",
+			"Worked on improving the UI and fixing bugs on the official website.",
+		],
+	},
+];

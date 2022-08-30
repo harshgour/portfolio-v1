@@ -1,0 +1,14 @@
+.theme-button {
+	.icon {
+		margin: 0.75rem 0.75rem 0 0;
+		animation: zoom 500ms ease;
+	}
+}
+@keyframes zoom {
+	from {
+		transform: scale(0);
+	}
+	to {
+		transform: scale(1);
+	}
+}
