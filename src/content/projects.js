@@ -9,6 +9,22 @@ export const getProjects = () => [
 		demo: "https://scheduulr.srmist.edu.in/",
 	},
 	{
+		name: "Splash",
+		description:
+			"An unsplash-clone, i.e. interactive image gallery with infinite scroll and dynamic arrangement",
+		platform: "web",
+		stack: "React, Tailwind, Sass, Unsplash APIs",
+		demo: "https://splash-clone.vercel.app/",
+	},
+	{
+		name: "Event/Phone Scheduler",
+		description:
+			"A ‘google calendar like’ event/phone call scheduler built using React and Redux",
+		platform: "web",
+		stack: "React, Redux, Tailwind, Sass, Unsplash APIs",
+		demo: "https://scheduler-harshgour.vercel.app/",
+	},
+	{
 		name: "Host Engine",
 		description:
 			"A decentralized web hosting platform using IPFS and Ethereum Blockchain.",
@@ -21,14 +37,6 @@ export const getProjects = () => [
 			"A fullstack Facebook agent helpdesk with live chatting and comments options.",
 		platform: "web",
 		stack: "React, NodeJS, Facebook Dev APIs, Socket",
-	},
-	{
-		name: "Splash",
-		description:
-			"An unsplash-clone, i.e. interactive image gallery with infinite scroll and dynamic arrangement",
-		platform: "web",
-		stack: "React, Tailwind, Sass, Unsplash APIs",
-		demo: "https://splash-clone.vercel.app/",
 	},
 	{
 		name: "Hacktrix",
