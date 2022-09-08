@@ -17,6 +17,13 @@ export const getProjects = () => [
 		demo: "https://splash-clone.vercel.app/",
 	},
 	{
+		name: "HooBank",
+		description: "A banking Landing web page",
+		platform: "web",
+		stack: "React, Tailwind,",
+		demo: "https://landing-bank.vercel.app/",
+	},
+	{
 		name: "Event/Phone Scheduler",
 		description:
 			"A ‘google calendar like’ event/phone call scheduler built using React and Redux",
